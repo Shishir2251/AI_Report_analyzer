@@ -1,6 +1,10 @@
 .env
 __pycache__/
 *.pyc
-venv/
+raenv/
 .idea/
 .temp/
+app/__pycache__/
+routes/__pycache__/
+temp/
+
